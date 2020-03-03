@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/6. With random planets.unity
+    guid: 647ce30df3b50024a80da172318ee3aa
   m_configObjects: {}
